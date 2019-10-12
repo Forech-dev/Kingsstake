@@ -7,7 +7,8 @@ https://github.com/Forech-dev/Kingsstake
  EXPLORERS: 
 http://explorer.kingstake.xyz/
 
- WALLETS: 
+ WALLETS:
+ 
 https://github.com/Forech-dev/Kingsstake/releases
 
  SOCIAL MEDIA:  
